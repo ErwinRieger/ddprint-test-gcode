@@ -4,6 +4,8 @@ ddprint-test-gcode
 
 Gcode test files to test ddPrint's parser and path-planner.
 
+Gcode is not intended to be really printed - don't try to print them.
+
 Used with the *ddprint <pre>* command or with the ddPrint *parserTest.sh* script.
 
 For example:
